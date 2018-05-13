@@ -1,0 +1,13 @@
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\bin\Debug\lab4Alg.exe.config
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\bin\Debug\lab4Alg.exe
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\bin\Debug\lab4Alg.pdb
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\obj\Debug\lab4Alg.csprojResolveAssemblyReference.cache
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\obj\Debug\lab4Alg.Form1.resources
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\obj\Debug\lab4Alg.Properties.Resources.resources
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\obj\Debug\lab4Alg.csproj.GenerateResource.Cache
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\obj\Debug\lab4Alg.csproj.CoreCompileInputs.cache
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\obj\Debug\lab4Alg.exe
+E:\C#\Algoritm & Data structure\lab4Alg\lab4Alg\obj\Debug\lab4Alg.pdb
+C:\Users\ErrorIlluminati\Desktop\lab4Alg\lab4Alg\bin\Debug\lab4Alg.exe.config
+C:\Users\ErrorIlluminati\Desktop\lab4Alg\lab4Alg\obj\Debug\lab4Alg.exe
+C:\Users\ErrorIlluminati\Desktop\lab4Alg\lab4Alg\obj\Debug\lab4Alg.pdb
